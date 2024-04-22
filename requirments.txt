@@ -1,0 +1,10 @@
+tweepy
+opencv-python
+spacy
+numpy
+pytesseract
+pandas
+selenium
+flask
+mysql-connector
+python-dotenv
